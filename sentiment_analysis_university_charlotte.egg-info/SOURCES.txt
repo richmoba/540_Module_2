@@ -1,0 +1,7 @@
+README.md
+setup.py
+sentiment_analysis_university_charlotte.egg-info/PKG-INFO
+sentiment_analysis_university_charlotte.egg-info/SOURCES.txt
+sentiment_analysis_university_charlotte.egg-info/dependency_links.txt
+sentiment_analysis_university_charlotte.egg-info/requires.txt
+sentiment_analysis_university_charlotte.egg-info/top_level.txt

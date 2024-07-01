@@ -1,0 +1,7 @@
+tweepy
+praw
+pandas
+scikit-learn
+tensorflow
+streamlit
+nltk
