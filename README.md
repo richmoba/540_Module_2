@@ -4,17 +4,14 @@
 This project analyzes the sentiment of social media posts related to the University area of Charlotte. It uses both classical machine learning and deep learning approaches to classify posts as positive, negative, or neutral.
 
 ## Setup and Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Collect data: `python scripts/collect_data.py`
-   setup a twitter developer account
-      PROJECT APP
-      1807466513722404864baker_richm
-      
-3. Preprocess data: `python scripts/preprocess_data.py`
-4. Train models:
+1. run the setup_project.py file to:
+    Install dependencies: `pip install -r requirements.txt`
+    Collect data: `python scripts/collect_data.py`
+    Preprocess data: `python scripts/preprocess_data.py`
+    Train models:
    - Classical ML: `python scripts/classical_model.py`
    - Deep Learning: `python scripts/deep_learning_model.py`
-5. Run the Streamlit app: `streamlit run main.py`
+2. Run the Streamlit app: `streamlit run app.py`
 
 ## Project Structure
 - `scripts/`: Contains scripts for data collection, preprocessing, and modeling.
