@@ -1,7 +1,7 @@
  # Richmond Bakers Sentiment Analysis of Social Media Posts about the University Area of Charlotte
 
 ## Project Description
-This project analyzes the sentiment of social media posts related to the University area of Charlotte. It uses both classical machine learning and deep learning approaches to classify posts as positive, negative, or neutral.
+This project analyzes the sentiment of social media posts related to the University area of Charlotte, North Carolina. It uses both classical machine learning and deep learning approaches to classify posts as positive, negative, or neutral.
 
 ## Setup and Run
 1. run the setup_project.py file to:
