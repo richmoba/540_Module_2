@@ -1,3 +1,4 @@
+##transformers[torch] accelerate -U
 tweepy
 praw
 pandas
@@ -5,4 +6,7 @@ scikit-learn
 tensorflow
 streamlit
 nltk
-
+transformers 
+datasets
+tf-keras
+torch

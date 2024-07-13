@@ -1,8 +1,8 @@
 # main.py
-import streamlit as st
-from scripts.preprocess_data import preprocess
-from scripts.classical_model import predict_classical
-from scripts.deep_learning_model import predict_deep
+import streamlit as st  # Streamlit
+from scripts.preprocess_data import preprocess # Custom function
+from scripts.classical_model import predict_classical # Custom function
+from scripts.deep_learning_model import predict_deep # Custom function
 
 st.title("Sentiment Analysis of University Area of Charlotte")
 
